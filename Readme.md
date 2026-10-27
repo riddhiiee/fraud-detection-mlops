@@ -24,6 +24,11 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 
 ## DEMO LINK - [LINK](https://frauddetectionmlops.streamlit.app/)
 
+## MLOps
+
+This project demonstrates fraud detection with machine learning,
+version control, CI/CD, Docker, Kubernetes, monitoring,
+and Databricks integration.
 ---
 
 ## **Table of Contents**
@@ -501,4 +506,3 @@ The fraud detection model is built using a **custom pipeline** with multiple sta
 * [GitHub](https://github.com/MohitGupta0123)
 * [LinkedIn](https://www.linkedin.com/in/mohitgupta012/)
 
-Feel free to connect for feedback, contributions, or collaborations.
